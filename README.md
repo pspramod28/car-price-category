@@ -1,11 +1,14 @@
-# car-price-category using Logistic Regression
+# CAR PRICE CATEGORY
 Srinivasa A B 
 Mar 2021
-To detarmine the care price fall under low or high
- # EDA
+To detarmine the care price fall under low or high category
+ # EDA 
+  Data Analysis - Univariate analysis & Bivariate Analysis 
  # Data cleaning and data engernaring 
+  Missing value analysis – Mean & Mode imputation
  # Approcah  
-  Logestic Regression 
+  Logestic Regression - Regression equation, Validation & Prediction
  # Results 
- # Source
+  Accuracy 0.9813(98%)
+ 
  
