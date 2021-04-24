@@ -1,7 +1,7 @@
 # CAR PRICE CATEGORY
 Srinivasa A B 
 Mar 2021
-To detarmine the care price fall under low or high category
+To detarmine the care price fall under low or high price category
  # EDA 
   Data Analysis - Univariate analysis & Bivariate Analysis 
  # Data cleaning and data engernaring 
